@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currrently studying Mechanical Enginnering <br><br>
+# Hello People!,<br> Tashir Here:
+I'm currrently studying Mechanical Enginnering <br>I have keen interest in Robotics and Artificial Intelligence<br>
 
 
 ## 🌐 Socials:
