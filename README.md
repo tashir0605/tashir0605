@@ -33,7 +33,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=tashir0605&show_icons=true&theme=github_dark&hide_border=true">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tashir0605&theme=github-dark-blue&hide_border=true"></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=tashir0605&theme=github-dark-blue&hide_border=true"></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashir0605&layout=compact&theme=github_dark&hide_border=true&langs_count=10">
 
