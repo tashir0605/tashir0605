@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Tashir!%20🌸&animation=fadeIn&type=waving&color=gradient&customColorList=12,2,20&height=100" width="100%">
+<img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Tashir!%20&animation=fadeIn&type=waving&color=gradient&customColorList=12,2,20&height=100" width="100%">
 
 ## 🙋‍♂️ About Me
 
 - 👨🏼‍🎓 I'm a Mechanical Engineering student at IIT Jodhpur.
 - 🤖 Keen interest in **Robotics**, **Machine Learning**, **Deep Learning**, and **NLP**.
-- 🌸 Aspiring to work with innovative teams in Japan — 日本で働くことを楽しみにしています!
 - 👯 I'm looking to collaborate on open source projects.
 - 📫 How to reach me: [b23me1074@iitj.ac.in](mailto:b23me1074@iitj.ac.in)
 
